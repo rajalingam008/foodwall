@@ -1,0 +1,302 @@
+@charset "utf-8";
+/* CSS Document */
+.login-button {
+    background: #ff8008;
+}
+
+ .main-menu > li > a {
+    color: #ff8008 !important;
+}
+.profile-image {
+    width: 28px;
+    border-radius: 15px;
+}
+.btn-orange
+{
+	background: #ff8008;
+}
+.text-black
+{
+	color: #6d6e71;
+}
+ul.post-img2 li {
+    display:block !important;
+    max-width: none !important;
+}
+.post-img2 {
+    margin-bottom: auto !important;
+}
+.post-img2 img
+{
+	border-radius:4px;
+}
+.multi-image img {
+    height: 200px;
+	width: 200px;
+    object-fit: cover;
+}
+.reaction .btn {
+	font-size:18px;
+}
+.upload-img {
+    background: url(../images/img/text.png) no-repeat;
+    background-size: cover;
+    display: block;
+    position: relative;
+    width: 27px;
+    height: 26px;
+}
+.upload-img2 {
+    background: url(../images/img/image-gallery.png) no-repeat;
+    background-size: cover;
+    display: block;
+    position: relative;
+    width: 27px;
+    height: 26px;
+}
+.upload-img3 {
+    background: url(../images/img/video-file.png) no-repeat;
+    background-size: cover;
+    display: block;
+    position: relative;
+    width: 27px;
+    height: 26px;
+}
+#image_src {
+    width: 26px;
+    height: 26px;
+    margin-right: 100px;
+    opacity: 0;
+    filter: alpha(opacity=0); /* IE 5-7 */
+}
+.view-image {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.multiple-img
+{
+	width: 100%;
+height:230px;
+object-fit: cover;
+}
+.post-btn {
+    background: #27aae1;
+    padding: 0px 24px;
+    color: #fff;
+    margin: 6px;
+}
+.profile-btn
+{
+	background: #27aae1;
+padding: 7px 25px;
+border: none;
+color: #fff;
+}
+.smartphoto-count {
+display: none !important;
+}
+.smartphoto-nav {
+display: none !important
+}
+
+
+.fa-thumbs-o-up::before {
+    font-size: 22px;
+    color: #449c16;
+}
+.fa-thumbs-up::before {
+    font-size: 22px;
+    color: #e05f5f;
+}
+.fa-trash::before {
+    margin-left: 20px;
+    font-size: 18px;
+	color: #e05f5f;
+}
+.delete_post {
+    margin-top: 5px !important;
+}
+.likes-count {
+    margin-top: -8px;
+}
+.event-up-icon {
+    font-size: 20px;
+    margin-left: 14px;
+    color: #449c16;
+}
+.event-down-icon
+{
+	font-size: 20px;
+    margin-left: 14px;
+	color: #e05f5f;
+}
+.event-details {
+    font-size: 14px;
+}
+.event-details i {
+    padding: 0 12px 0 0;
+	font-size: 16px;
+}
+.event-comments
+{
+	font-weight:bold;
+	font-size: 14px;
+}
+.going-icon {
+    padding-left: 12px;
+}
+.add-friend {
+ margin-left: 27px;
+background: #ff8008;
+padding: 5px 8px;
+}
+.add-friend a{
+   color: #fff;
+text-decoration: none;
+font-size: 12px;
+}
+.event-details p {
+    border-bottom: 1px solid #ededed;
+    padding: 5px 0;
+}
+.event-details div {
+    margin-top: 20px;
+}
+.going-icon a{
+color: #6d6e71;
+text-decoration:none;
+}
+.up-down-vote i {
+    font-size: 20px;
+    margin-right: 8px;
+}
+.downvote {
+    margin-left: 12px;
+	color: #e05f5f;
+}
+.up-down-vote {
+    font-size: 15px;
+}
+.upvote {
+    color: #39b54a;
+}
+.up-down-vote a {
+    color: #746c6c;
+}
+.qustions {
+    font-size: 24px;
+}
+.navbar-default .navbar-nav > .active > a
+{
+color: #fff !important;
+background: transparent !important;
+}
+.total-answer {
+    color: #6d6e71;
+}
+.comment-answer {
+    padding: 12px 0 18px 0;
+	font-size: 15px;
+}
+.comment-answer i {
+    font-size: 20px;
+}
+.answer-icon i {
+    color: #27aae1;
+}
+.right-icons a, .answer-icon a
+{
+color: #6d6e71;
+text-decoration: none;
+}
+.answer-views {
+    padding: 20px 0 0 0;
+}
+.answer-btn {
+    background: #27aae1;
+padding: 6px 24px;
+color: #fff;
+margin: 10px 0;
+}
+.comment-views {
+    padding: 20px 0;
+    margin-bottom: 18px;
+}
+.btn.comment-btn {
+    background: #27aae1;
+    padding: 5px 22px;
+    color: #fff;
+}
+
+.facebook-icon i {
+    color: #3b589e;
+	padding: 0 6px;
+}
+.twitter-icon i {
+color: #dd5146;
+padding: 0 6px;
+}
+.comment-icon2 a {
+    color: #6d6e71;
+}
+.comment-icon2 {
+    font-size: 15px;
+}
+.profile-tab i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+.profile-tab a {
+    font-size: 15px;
+}
+.profile-tab li.active {
+    border-top: 3px solid #399b86;
+}
+.profile-tab li.active > a {
+border-radius: 0px !important;
+margin-right:auto !important;
+}
+.profile-view-list {
+    height: 100px;
+    text-align: center;
+    border-left: 3px solid #ff8008;
+	border-radius: 4px;
+	background: linear-gradient(to bottom, #399b86, #65efc3);
+color: #fff;
+}
+.profile-view-list p {
+    padding-top: 30px;
+    font-size: 18px;
+}
+.profile-gallery-img .example-image {
+    height: 175px;
+    width: 185px;
+    position: relative;
+    object-fit: cover;
+	margin-top: 5px;
+}
+.work-org i{
+font-size: 30px;
+color: #399b86;
+}
+.friend-card img {
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+}
+.titile-name i {
+    color: #2e968f;
+}
+.grey.titile-name {
+    font-size: 22px;
+	color: #ff8008;
+}
+
+.rating-view {
+    margin-top: 20px;
+}
+.rating-points {
+background: #484343;
+padding: 0 5px;
+}
